@@ -24,3 +24,5 @@ class Solution:
             sum = max(sum + nums[i], nums[i])
             max_sum = max(sum, max_sum)
         return max_sum
+
+# TODO DP时间复杂度O(n). 可使用分治法求解
