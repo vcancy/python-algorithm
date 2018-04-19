@@ -26,6 +26,7 @@ Array:
 
 [169 Majority Element](/leetcode/Algorithms/Array/169.py)
 
+[283 Move Zeroes](/leetcode/Algorithms/Array/283.py)
 HashTable
 
 [3 Longest Substring Without Repeating Characters](/leetcode/Algorithms/HashTable/3_LongestSubstringWithoutRepeatingCharacters.py)
