@@ -30,6 +30,8 @@ Array:
 
 [414 Third Maximum Number](/leetcode/Algorithms/Array/283.py)
 
+[448 Find All Numbers Disappeared in an Array](/leetcode/Algorithms/Array/448.py)
+
 HashTable
 
 [3 Longest Substring Without Repeating Characters](/leetcode/Algorithms/HashTable/3_LongestSubstringWithoutRepeatingCharacters.py)
