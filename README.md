@@ -28,9 +28,11 @@ Array:
 
 [283 Move Zeroes](/leetcode/Algorithms/Array/283.py)
 
-[414 Third Maximum Number](/leetcode/Algorithms/Array/283.py)
+[414 Third Maximum Number](/leetcode/Algorithms/Array/414.py)
 
 [448 Find All Numbers Disappeared in an Array](/leetcode/Algorithms/Array/448.py)
+
+[485 Max Consecutive Ones](/leetcode/Algorithms/Array/485.py)
 
 HashTable
 
