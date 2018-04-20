@@ -38,6 +38,8 @@ Array:
 
 [561 Array Partition I ](/leetcode/Algorithms/Array/561.py)
 
+[268 Missing Number](/leetcode/Algorithms/Array/268.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
