@@ -34,6 +34,22 @@ Array:
 
 [485 Max Consecutive Ones](/leetcode/Algorithms/Array/485.py)
 
+Tree
+
+[94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
+
+[101 Symmetric Tree.py](/leetcode/Algorithms/Tree/101_SymmetricTree.py)
+
+[102 Binary TreeLevel Order Traversal](/leetcode/Algorithms/Tree/102_BinaryTreeLevelOrderTraversal.py)
+
+[104 Maximum Depth of Binary Tree](/leetcode/Algorithms/Tree/104_MaximumDepthofBinaryTree.py)
+
+[112 Path Sum](/leetcode/Algorithms/Tree/112_PathSum.py)
+
+[144 Binary Tree Preorder Traversal](/leetcode/Algorithms/Tree/144_BinaryTreePreorderTraversal.py)
+
+[145 BinaryTree Postorder Traversal](/leetcode/Algorithms/Tree/145_BinaryTreePostorderTraversal.py)
+
 HashTable
 
 [3 Longest Substring Without Repeating Characters](/leetcode/Algorithms/HashTable/3_LongestSubstringWithoutRepeatingCharacters.py)
