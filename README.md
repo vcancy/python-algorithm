@@ -40,6 +40,8 @@ Array:
 
 [268 Missing Number](/leetcode/Algorithms/Array/268.py)
 
+[566 Reshape the Matrix](/leetcode/Algorithms/Array/566.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
