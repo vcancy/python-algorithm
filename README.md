@@ -36,6 +36,8 @@ Array:
 
 [532 K-diff Pairs in an Array](/leetcode/Algorithms/Array/532.py)
 
+[561 Array Partition I ](/leetcode/Algorithms/Array/561.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
