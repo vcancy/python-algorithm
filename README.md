@@ -34,6 +34,8 @@ Array:
 
 [485 Max Consecutive Ones](/leetcode/Algorithms/Array/485.py)
 
+[532 K-diff Pairs in an Array](/leetcode/Algorithms/Array/532.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
