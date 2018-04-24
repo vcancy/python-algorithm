@@ -46,6 +46,8 @@ Array:
 
 [766 Toeplitz Matrix](/leetcode/Algorithms/Array/766.py)
 
+[119 Pascal's Triangle II](/leetcode/Algorithms/Array/119.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
