@@ -54,6 +54,8 @@ Array:
 
 [697 Degree of an Array](/leetcode/Algorithms/Array/697.py)
 
+[717 Degree of an Array](/leetcode/Algorithms/Array/717.py)
+
 
 Tree
 
