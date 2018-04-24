@@ -48,6 +48,8 @@ Array:
 
 [119 Pascal's Triangle II](/leetcode/Algorithms/Array/119.py)
 
+[695 Max Area of Island](/leetcode/Algorithms/Array/695.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
