@@ -50,6 +50,8 @@ Array:
 
 [695 Max Area of Island](/leetcode/Algorithms/Array/695.py)
 
+[661 Image Smoother](/leetcode/Algorithms/Array/661.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
