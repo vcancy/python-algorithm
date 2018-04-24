@@ -52,6 +52,8 @@ Array:
 
 [661 Image Smoother](/leetcode/Algorithms/Array/661.py)
 
+[697 Degree of an Array](/leetcode/Algorithms/Array/697.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
