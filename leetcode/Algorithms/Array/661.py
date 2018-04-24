@@ -21,7 +21,7 @@ class Solution:
         x_len = len(M)
         y_len = len(M[0]) if M else 0
 
-        res = [[0] * y_len for _ in M]
+        res = [[0] * y_len for _ in M] # 复制矩阵
         for i in range(x_len):
             for j in range(y_len):
                 neighbor = [
