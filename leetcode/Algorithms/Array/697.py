@@ -16,20 +16,21 @@ __author__ = "vcancy"
 
 """
 
+
 class Solution:
     def findShortestSubArray(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        left, right, count = {}, {}, {} # 分别保存左侧第一次出现，右侧第一次出现，每个元素出现的总次数
+        left, right, count = {}, {}, {}  # 分别保存左侧第一次出现，右侧第一次出现，每个元素出现的总次数
         for i, v in enumerate(nums):
-            if v not in left.keys(): # 发现有元素已经出现过，重置左侧元素位置
+            if v not in left.keys():  # 发现有元素已经出现过，重置左侧元素位置
                 left[v] = i
             right[v] = i
             count[v] = count.get(v, 0) + 1
 
-        degree = max(count.values()) # 求元素最大出现次数
+        degree = max(count.values())  # 求元素最大出现次数
         ret = len(nums)
         for k, v in count.items():
             if v == degree:
