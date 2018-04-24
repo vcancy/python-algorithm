@@ -44,6 +44,8 @@ Array:
 
 [581 Shortest Unsorted Continuous Subarray](/leetcode/Algorithms/Array/581.py)
 
+[766 Toeplitz Matrix](/leetcode/Algorithms/Array/766.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
