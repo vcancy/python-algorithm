@@ -56,6 +56,7 @@ Array:
 
 [717 Degree of an Array](/leetcode/Algorithms/Array/717.py)
 
+[26 Remove Duplicates from Sorted Array](/leetcode/Algorithms/Array/26.py)
 
 Tree
 
