@@ -58,6 +58,8 @@ Array:
 
 [26 Remove Duplicates from Sorted Array](/leetcode/Algorithms/Array/26.py)
 
+[724 Remove Duplicates from Sorted Array](/leetcode/Algorithms/Array/724.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
