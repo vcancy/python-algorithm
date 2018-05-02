@@ -60,6 +60,8 @@ Array:
 
 [724 Remove Duplicates from Sorted Array](/leetcode/Algorithms/Array/724.py)
 
+[747 Largest Number At Least Twice of Others](/leetcode/Algorithms/Array/747.py)
+
 Tree
 
 [94 BinaryTree Inorder Traversal](/leetcode/Algorithms/Tree/94_BinaryTreeInorderTraversal.py)
